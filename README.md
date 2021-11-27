@@ -11,7 +11,8 @@
 ### bold + italic
 ***new***<br/>
 *****data to be analysed*****<br/>
-[ADITYA](https://www.aec.edu.in/)
+[ADITYA](https://www.aec.edu.in/)<br/>
+![sasuke](sasuke.jfif)
 |s.no|NAME|BRANCH|ROLLNUMBER|
 |----|----|------|----------|
 |1|raja|cse|20a91a05j1|
