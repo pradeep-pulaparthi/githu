@@ -11,5 +11,5 @@
 ### bold + italic
 ***new***<br/>
 *****data to be analysed*****<br/>
-[ADITYA]("www.aec.edu.in")
+[ADITYA](https://www.aec.edu.in/)
 
